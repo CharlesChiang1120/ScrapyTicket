@@ -1,0 +1,6 @@
+# Env
+scrapy_env
+
+# __pycache__
+activityscrapy/activityscrapy/__pycache__
+activityscrapy/activityscrapy/spiders/__pycache__
